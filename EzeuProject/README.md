@@ -1,6 +1,6 @@
 # VENDING MACHINE 
 
-## Running the tests
+## Running the Project
    
    * Run the Owner.java file
    * By giving javac Owner.java for compailation
